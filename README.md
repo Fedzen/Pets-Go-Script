@@ -1,4 +1,4 @@
-# Pets Go Script 2024 JELLY Update [PGO] Redzhub
+# Pets Go Script 2024 Turkey Boss Update [PGO] Redzhub
 # Script
 copy this script and paste into injector this is an all in 1
 
