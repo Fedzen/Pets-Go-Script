@@ -1,4 +1,4 @@
-# Pets Go Script 2024 Winter Event Update [PGO] Redzhub
+# Pets Go Script 2024 Valentine's Event Update [PGO] Redzhub
 # Script
 copy this script and paste into injector this is an all in 1
 
