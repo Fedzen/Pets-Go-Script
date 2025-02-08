@@ -2,7 +2,7 @@
 # Script
 copy this script and paste into injector this is an all in 1
 
-**script: loadstring(game:HttpGet("https://egorikusa.space/223f56872fde0578a2e9acd1.lua", true))()**
+**script: loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedzen/script-go/refs/heads/main/.lua", true))()**
 
 # functionsadded
 
